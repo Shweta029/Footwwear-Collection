@@ -1,0 +1,26 @@
+table{
+    margin-top: -5%;
+    background-color: aqua;
+
+}
+*{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    margin: 0;
+}
+.h1{
+    position: relative;
+    margin-top: 0;
+    height: 500px;
+    width: 100%;
+    background-image: url("bg8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    font-size: 50px;
+    text-align: center;
+}
